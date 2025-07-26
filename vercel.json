@@ -5,5 +5,4 @@
 }
 {
     { "source":"/Render","destination":"/Render.html" }
-  ]
 }
