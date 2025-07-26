@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source":"/Render","destination":"/Render.html" }
     { "source":"/","destination":"/Index.html" }
+    { "source":"/Render","destination":"/Render.html" }
   ]
 }
