@@ -1,6 +1,9 @@
 {
-  "rewrites": [
+  "rewrites":[
     { "source":"/","destination":"/Index.html" }
+  ]
+}
+{
     { "source":"/Render","destination":"/Render.html" }
   ]
 }
