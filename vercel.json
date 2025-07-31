@@ -1,10 +1,5 @@
 {
   "rewrites":[
-    { "source":"/","destination":"/Index.html" }
-  ]
-}
-{
-  "rewrites":[
-    { "source":"/","destination":"/Render.html" }
+    { "source":"/(.*)","destination":"/Index.html" }
   ]
 }
